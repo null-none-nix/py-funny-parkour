@@ -1,6 +1,8 @@
 # py-funny-parkour
 sussy parkour game made 4 years ago
 
+Just execute `main.py`
+
 ## Modules required:
 
 - `pygame 2.1.2+`. that's all
